@@ -18,8 +18,10 @@ Here, You Can Find List Of All My Projects: <a target="_blank" href="https://git
 
 # Languages, Technologies and Tools: 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F23-237369_html5-and-css3-transparent-background-html-logo-hd.png&imgrefurl=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FiJJbhR_html5-and-css3-transparent-background-html-logo-hd%2F&tbnid=Lolg_7ansGNJsM&vet=12ahUKEwjm89uj-r7uAhVHWCsKHfBWBsYQMygDegUIARDZAQ..i&docid=whG1vCYIOr5qGM&w=860&h=554&q=html%20logo&ved=2ahUKEwjm89uj-r7uAhVHWCsKHfBWBsYQMygDegUIARDZAQ"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 
 I'm a IT Professional who is passionate about making open-source more accessible, creating technology to elevate people and building community. Some technologies I enjoy working with include Python and HTML. I would like to accelerate career in Advanced Applied AI. Short and sweet, apart from coder and opensource contributor, amalgation of risk taking abilities, communication and abstraction perspective of mine led me to Data science. 
 
