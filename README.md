@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 
 - 👯 I’m looking to collaborate on Youtube.
-- ⚡ Fun fact: Stuck with something, have a PaniPuri and watch Comedy.
+- ⚡ Fun fact: Stuck with something, have PaniPuri and watch Comedy.
 
 
 Here, You Can Find List Of All My Projects: <a target="_blank" href="https://github.com/monicadesAI-tech/monicadesAI-tech">Github_All_Projects_Index.html</a>
