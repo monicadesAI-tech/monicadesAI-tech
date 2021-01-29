@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Stuck with something, have PaniPuri and watch Comedy.
 
 
-Here, You Can Find List Of All My Projects: <a target="_blank" href="https://github.com/monicadesAI-tech/monicadesAI-tech.github.io/blob/main/Github_All_Projects_Index.html">Github_All_Projects_Index.html</a>
+Here, You Can Find List Of All My Projects: <a target="_blank" href="https://monicadesai-tech.github.io/Github_All_Projects_Index.html">Github_All_Projects_Index.html</a>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=monicadesAI-tech&show_icons=true&theme=merko&icon_color=skyblue">
 
