@@ -45,7 +45,7 @@ I'm a IT Professional who is passionate about making open-source more accessible
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+91-9820692750">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/monica.desai.102/">
+<a target="_blank" href="https://www.instagram.com/monica_desai_92/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://www.facebook.com/monika.desai.102">
