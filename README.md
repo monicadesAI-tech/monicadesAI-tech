@@ -39,17 +39,17 @@ I'm a IT Professional who is passionate about making open-source more accessible
 <a target="_blank" href="mailto:monicadesai92@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-#<a target="_blank" href="https://twitter.com/MonicaDesai92">
-#  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-#</a>
-#<a target="_blank" href="https://api.whatsapp.com/send?phone=+91-9820692750">
-#  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-#</a>
-#<a target="_blank" href="https://www.instagram.com/monica_desai_92/">
-#  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-#</a>
-#<a target="_blank" href="https://www.facebook.com/monika.desai.102">
-#  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-#</a>
+<!--<a target="_blank" href="https://twitter.com/MonicaDesai92">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+91-9820692750">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/monica_desai_92/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/monika.desai.102">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>-->
 </br>
 
